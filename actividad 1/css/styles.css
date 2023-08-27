@@ -1,0 +1,27 @@
+body {
+
+    background: #c8e1ff;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #debecc, #b3eeed, #99bce7);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #64555b, #3c706f, #4b6e98); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    
+}
+    
+p {
+    color:rgb(255, 246, 246);
+}
+
+h1{
+    color:rgb(255, 255, 255)
+}
+
+h2{
+    color:antiquewhite
+}
+
+h3{
+    color: aliceblue
+}
+
+.accordion-button{
+color:#2c9d70;
+}
